@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login form{
+    font-size: 20px;
+}
+.submit{
+    width:400px;
+}
+.login .logo{
+    padding-left: 60px;
+}
+.login .submit{
+    padding-top: 50px;
+    border: 20px; ;
+    
+}
+.login .oublie{
+    font-size: 15px;
+    color:azure
+}
+.login .form-group{
+    border-radius: 50px;
+}
+@media screen and (max-width: 768px){
+
+    .login form{
+    font-size: 20px;
+}
+.submit{
+    width:350px;
+}
+.login .logo{
+    padding-left: 20px;
+}
+
+
+}

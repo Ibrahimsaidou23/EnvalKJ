@@ -1,0 +1,87 @@
+
+
+.alarm{
+  width: 50px;
+  height: 45px;
+  margin: 10px;
+}
+.b{
+  width: 70px;
+}
+.grand{
+  background-color:#E7F9FD;
+}
+.pouce{
+  margin-left: 15px;
+  
+}
+
+.lebas{
+  padding-left: 15px;
+}
+.contenu{
+margin-left: 5px;
+border-radius: none;
+}
+
+.table th,.table td{
+  padding: 0;
+
+}
+.text{
+  text-align: center;
+  font-size:2rem;
+  padding: 30px;
+}
+.grad1{
+  height: 150px;
+  width: 100%;
+  background-image:linear-gradient(to right,green,orange,red)
+}
+.xx{
+  text-align:center;
+  padding: 3rem;
+  margin-left: 70%;
+  
+}
+.text{
+  text-align: center;
+  font-size:2rem;
+  padding: 5px;
+}
+.img{
+  width: 10rem;
+  padding-left: 30px;
+}
+.eco{
+  background-color: #fff;
+  border-radius: 1rem;
+}
+.table{
+  border:1px solid;
+  font-size: 10px;
+  overflow-x: scroll;
+}
+.toh{
+  font-size:15px;
+  margin-left: 40px;
+}
+.tiffo{
+  margin-top: 50px;
+}
+@media screen and (max-width:768px) {
+  .zz{
+    height: 400px;
+    width: 100%;
+  }
+  
+}
+@media screen and (max-width:375px) {
+  .zz{
+    height: 100px;
+    width: 100%;
+  }
+  
+}
+
+
